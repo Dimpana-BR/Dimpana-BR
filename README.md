@@ -76,12 +76,12 @@
 ---
 ## 🚀 Projects
 
-### 🎬 BookMyShow 2.0
+### 🧬 Bone Cancer Detection
 
-🔗 https://github.com/Dimpana-BR/Booktickets
+🔗 https://github.com/Dimpana-BR/Bone_Cancer
 
-* MERN-based movie & event booking system
-* Features: Booking, listings, user interaction
+* Medical AI project for cancer detection
+* Image-based analysis
 
 ---
 
@@ -111,13 +111,13 @@
 * Uses image processing & ML concepts
 
 ---
+### 🎬 BookMyShow 2.0
 
-### 🧬 Bone Cancer Detection
+🔗 https://github.com/Dimpana-BR/Booktickets
 
-🔗 https://github.com/Dimpana-BR/Bone_Cancer
+* MERN-based movie & event booking system
+* Features: Booking, listings, user interaction
 
-* Medical AI project for cancer detection
-* Image-based analysis
 
 ---
 
