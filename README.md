@@ -22,7 +22,6 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 
@@ -32,6 +31,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
